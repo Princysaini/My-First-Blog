@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>My Website</title>
+    </head>
+    <body>
+        <div>
+            <h1><a href="/">My Blog</a></h1>
+        </div>
+
+        <div>
+            <p>published: 15.11.2020, 12:14</p>
+            <h2><a href="">My first post</a></h2>
+            <p>The massively parallel sequencing technology known as next-generation sequencing (NGS) has revolutionized the biological sciences. With its ultra-high throughput, scalability, and speed, NGS enables researchers to perform a wide variety of applications and study biological systems at a level never before possible.</p>
+        </div>
+
+        <div>
+            <p>published: 14.06.2014, 12:14</p>
+            <h2><a href="">My second post</a></h2>
+            <p>Today's complex genomic research questions demand a depth of information beyond the capacity of traditional DNA sequencing technologies. Next-generation sequencing has filled that gap and become an everyday research tool to address these questions.</p>
+        </div>
+    </body>
+</html>
